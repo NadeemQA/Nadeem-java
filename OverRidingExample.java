@@ -20,4 +20,6 @@ public class OverRidingExample extends PerantClass {
         else
             return fail;
 
+            //it will take only ture and false
+
 }
